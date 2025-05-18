@@ -1,0 +1,3 @@
+unzip all the zip files.
+The files inside the zip files are used for training.
+Run the code from the same directory as your test and train files.
